@@ -9,3 +9,22 @@
 /CRUD DB/build/
 /shortToInt/nbproject/private/
 /shortToInt/build/
+/blockchain-key/nbproject/private/
+/blockchain-key/build/
+/Hash-sha256/nbproject/private/
+/hash256/nbproject/private/
+/hash256/build/
+/ripemd/nbproject/private/
+/RSAencryption/nbproject/private/
+/RSAencryption/build/
+/Assymetric/nbproject/private/
+/Assymetric/build/
+/signature/nbproject/private/
+/signatureRSA/nbproject/private/
+/signatureRSA/build/
+/walletAddress/nbproject/private/
+/walletAddress/build/
+/bitcoinAddress/nbproject/private/
+/bitcoinAddress/build/
+/JavaApplication31/nbproject/private/
+/JavaApplication31/build/
